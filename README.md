@@ -17,5 +17,5 @@ I'm Juanjo, Backend developer from <img src="https://cdn-icons-png.flaticon.com/
 
 Where to find me
 
-![https://github.com/wuaho](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
-![https://www.linkedin.com/in/juanjorequena/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjorequena/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.juanjorequena.com/)
