@@ -1,5 +1,4 @@
 <p align="center">
-  [a link](https://github.com/wuaho/wuaho/raw/main/banner.png)
   <img src="https://github.com/wuaho/wuaho/raw/main/banner.png" alt="Hi, I'm Juanjo and I'm a Backend developer">
 </p>
 
