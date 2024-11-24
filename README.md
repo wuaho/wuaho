@@ -15,7 +15,16 @@ I'm Juanjo, Backend developer from <img src="https://cdn-icons-png.flaticon.com/
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
-Where to find me
+### My latest projects
+
+
+### My latest blog posts
+<ul>
+  <li><a href="https://blog.juanjorequena.com/the-abcs-of-nosql-lessons-from-nosql-distilled">📚 The ABCs of NoSQL: lessons from "NoSQL Distilled"</a></li>
+  <li><a href="https://blog.juanjorequena.com/give-and-take">📚 Success through giving: lessons from "Give and Take"</a></li>
+</ul>
+
+### Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjorequena/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.juanjorequena.com/)
