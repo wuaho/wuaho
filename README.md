@@ -22,7 +22,7 @@ My colleagues know me as someone picky about quality and attention to detail, my
 
 ## 🚀 My latest projects
  <ul>
-  <li>📰 <a href="https://github.com/wuaho/hikorea-paperman">HiKorea Paperman:</a> this project aims to enhance the user experience of the HiKorea immigration portal forms. The goal is to provide an interactive flow where users are asked what they need, and then guided through relevant questions, avoiding long and static forms. As users progress, they fill in only the necessary information.</li>
+  <li>📰 <a href="https://github.com/wuaho/hikorea-paperman">HiKorea Assistant:</a> this project aims to enhance the user experience of the HiKorea immigration portal forms. The goal is to provide an interactive flow where users are asked what they need, and then guided through relevant questions, avoiding long and static forms. As users progress, they fill in only the necessary information.</li>
 </ul>
 
 
