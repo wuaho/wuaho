@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Juanjo, a backend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Sevilla, Spain</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="13"/> <b>Seoul, South Korea</b>. 
+I'm Juanjo, a software engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Sevilla, Spain</b>.
 
 My colleagues know me as someone picky about quality and attention to detail, my friends know me as a funny guy who knows good places to eat food.
 </p>
